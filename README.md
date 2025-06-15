@@ -43,8 +43,8 @@ src/
 ### 1. Clone the Repo
 
 ```sh
-git clone https://github.com/Vinyas24/form-builder.git
-cd form-builder
+git clone https://github.com/Vinyas24/Dynamic-Form-Builder.git
+cd Dynamic-Form-Builder
 ```
 
 ### 2. Install Dependencies
